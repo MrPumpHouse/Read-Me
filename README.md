@@ -1,8 +1,8 @@
 # Information
 
 ## Contact me
-@mqgh (1231474833213362176) on Discord'
-- Friend Requests are off, find me in discord.gg/elvebredd or discord.gg/gaggate
+@mqgh (1231474833213362176) on Discord
+- Friend Requests are off, find me in https://discord.gg/elvebredd or https://discord.gg/gaggate
 
 ## Developments
 * Elvebredd Value Bot | https://discord.gg/elvebredd
