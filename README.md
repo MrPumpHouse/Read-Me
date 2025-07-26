@@ -5,16 +5,17 @@
 - Friend Requests are off, find me in discord.gg/elvebredd or discord.gg/gaggate
 
 ## Developments
-* Elvebredd Value Bot | discord.gg/elvebredd
-* Gamesbredd (No longer available) | discord.gg/elvebredd
-* Elvebredd Services | discord.gg/elvebredd
-* Elvebredd Games | discord.gg/elvebredd
+* Elvebredd Value Bot | https://discord.gg/elvebredd
+* Elvebredd Services | https://discord.gg/elvebredd
+* Elvebredd Games | https://discord.gg/elvebredd
 * Elvebredd Grow a Garden Values | discord.gg/elvebredd
-* Lzghtwork Utility | discord.gg/https://discord.gg/M5AwcvTQrZ
-* Elvebredd Grow a Garden Stock (Co Author: ibqu (324877029868568576)) | discord.gg/elvebredd
-* Grow a Garden Gate | discord.gg/gaggate
-* Shark Byte Values (No longer available)
-* Shark Byte Utility (No longer available)
+* Lzghtwork Utility | https://discord.gg/M5AwcvTQrZ
+* Elvebredd Grow a Garden Stock (Co Author: ibqu (324877029868568576)) | https://discord.gg/elvebredd
+* Grow a Garden Gate | https://discord.gg/gaggate
+* Ash Values (No longer available) | https://discord.gg/ashlair
+* Gamesbredd (No longer available) | https://discord.gg/elvebredd
+* Shark Byte Values (No longer available) | Server Unavailable
+* Shark Byte Utility (No longer available) | Server Unavailable
 
 ## Experience
 * Highly experienced in any sort of value bot
