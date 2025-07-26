@@ -8,7 +8,7 @@
 * Elvebredd Value Bot | https://discord.gg/elvebredd
 * Elvebredd Services | https://discord.gg/elvebredd
 * Elvebredd Games | https://discord.gg/elvebredd
-* Elvebredd Grow a Garden Values | discord.gg/elvebredd
+* Elvebredd Grow a Garden Values | https://discord.gg/elvebredd
 * Lzghtwork Utility | https://discord.gg/M5AwcvTQrZ
 * Elvebredd Grow a Garden Stock (Co Author: ibqu (324877029868568576)) | https://discord.gg/elvebredd
 * Grow a Garden Gate | https://discord.gg/gaggate
