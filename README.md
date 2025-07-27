@@ -4,6 +4,13 @@
 @mqgh (1231474833213362176) on Discord
 - Friend Requests are off, find me in https://discord.gg/elvebredd or https://discord.gg/gaggate
 
+## Information
+Discord Bot Developer with 1 year of experience
+
+## Skills
+**Languages**: Javascript, Python, JSON
+**Tools:** Visual Studio Code, Github, Hosting Services
+
 ## Developments
 * Elvebredd Value Bot | https://discord.gg/elvebredd
 * Elvebredd Services | https://discord.gg/elvebredd
