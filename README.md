@@ -9,6 +9,7 @@ Discord Bot Developer with 1 year of experience
 
 ## Skills
 **Languages**: Javascript, Python, JSON
+
 **Tools:** Visual Studio Code, Github, Hosting Services
 
 ## Developments
