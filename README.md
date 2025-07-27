@@ -28,7 +28,7 @@ Discord Bot Developer with 1 year of experience.
 ## Experience
 * Highly experienced in any sort of value bot
 * Moderatley experienced in any sort of service/utility bot
-* Moderatley experienced but sucessful in API & Websockets
+* Moderatley experienced in API & Websockets
 
 ## Purchase
 Go to Contact Me to find information
