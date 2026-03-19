@@ -2,7 +2,7 @@
 
 ## Contact me
 @mqgh (1231474833213362176) on Discord
-- Friend Requests are off, find me in https://discord.gg/elvebredd or https://discord.gg/gaggate
+- Friend Requests are off, find me in https://discord.gg/elvebredd
 
 ## About Me
 Discord Bot Developer with 1 year of experience.
