@@ -10,7 +10,7 @@ Discord Bot Developer with 1 year of experience.
 ## Skills
 **Languages**: Javascript, Python, JSON
 
-**Tools:** Visual Studio Code, Github, Hosting Services
+**Tools:** Visual Studio Code, Github, Hosting Services, Replit
 
 ## Developments
 * Elvebredd Value Bot | https://discord.gg/elvebredd
