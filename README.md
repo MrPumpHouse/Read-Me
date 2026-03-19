@@ -5,7 +5,7 @@
 - Friend Requests are off, find me in https://discord.gg/elvebredd
 
 ## About Me
-Discord Bot Developer with 1 year of experience.
+Discord Bot Developer with 2 years of experience.
 
 ## Skills
 **Languages**: Javascript, Python, JSON
