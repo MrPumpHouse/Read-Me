@@ -16,14 +16,14 @@ Discord Bot Developer with 1 year of experience.
 * Elvebredd Value Bot | https://discord.gg/elvebredd
 * Elvebredd Services | https://discord.gg/elvebredd
 * Elvebredd Games | https://discord.gg/elvebredd
-* Elvebredd Grow a Garden Values | https://discord.gg/elvebredd
-* Lzghtwork Utility | https://discord.gg/M5AwcvTQrZ
-* Elvebredd Grow a Garden Stock (Co Author: ibqu (324877029868568576)) | https://discord.gg/elvebredd
+* Elvebredd Grow a Garden Values (Unavailable) | https://discord.gg/elvebredd
+* Lzghtwork Utility (Unavailable) | Server Unavailable
+* Elvebredd Grow a Garden Stock (Co Author: ibqu (324877029868568576), Unavailable) | https://discord.gg/elvebredd
 * Grow a Garden Gate | https://discord.gg/gaggate
-* Ash Values (No longer available) | https://discord.gg/ashlair
-* Gamesbredd (No longer available) | https://discord.gg/elvebredd
-* Shark Byte Values (No longer available) | Server Unavailable
-* Shark Byte Utility (No longer available) | Server Unavailable
+* Ash Values (Unavailable) | https://discord.gg/ashlair
+* Gamesbredd (Unavailable) | https://discord.gg/elvebredd
+* Shark Byte Values (Unavailable) | Server Unavailable
+* Shark Byte Utility (Unavailable) | Server Unavailable
 
 ## Experience
 * Highly experienced in any sort of value bot
