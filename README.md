@@ -30,15 +30,22 @@ Discord Bot Developer with 1 year of experience.
 * Moderatley experienced in any sort of service/utility bot
 * Moderatley experienced in API & Websockets
 
-## Purchase
-Go to Contact Me to find information
-### Hosting
-- 256MB = $2/m
-- 512MB = $4/m
-- 1GB = $6/m
-- 2GB = $9/m
-### Bot Type
-- API / WebSocket connects = +$4
-- Value Bot = +$3
-- Service/Utility Bot = +$2
+## Independent Software Developer / Freelance Developer
+* Designed & programmed multiple custom Discord bots using JavaScript, JSON, & Python
+* Built bots for moderation systems, gaming features, virtual economies, & live market tracking
+* Managed user commands, automation systems, & API integrations
+* Maintained & updated bots for active online communities
 
+## Project Impact
+* Four bots currently used in a Discord server with over 62,000 members
+* Server owned by a YouTuber with over 400,000 subscribers
+* Two bots used in servers with over 2,000 members
+* Three additional bots used in servers ranging from 100 to 1,000 members
+* Systems actively maintained & used by large online communities
+
+## Web Application Development
+* Built a custom website connected to a Discord bot for managing in-game Roblox item values
+* Created a system allowing users to add items & assign value & demand ratings
+* Developed a trade calculator allowing users to compare items between two sides of a trade
+* Implemented filtering & sorting options including value ranking, alphabetical order, & demand
+* Integrated links to Discord servers, Roblox developer profiles, & value managers
